@@ -1,0 +1,6 @@
+#ifndef HELPER_VERSION_H
+#define HELPER_VERSION_H
+
+#define HELPER_VERSION "1.0.0"
+
+#endif // HELPER_VERSION_H
